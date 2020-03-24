@@ -111,12 +111,12 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 
 | Vendor      | Samples | Devices | Non-working |
 |-------------|---------|---------|-------------|
-| Apple       | 102     | 40      | 1           |
+| Apple       | 103     | 40      | 1           |
 | Lenovo      | 77      | 35      | 1           |
 | Hewlett-... | 62      | 33      | 1           |
 | Acer        | 49      | 35      | 1           |
 | Dell        | 34      | 33      | 1           |
-| ASUSTek ... | 22      | 33      | 1           |
+| ASUSTek ... | 23      | 34      | 1           |
 | MSI         | 16      | 34      | 1           |
 | Sony        | 16      | 39      | 1           |
 | Samsung ... | 7       | 34      | 0           |

@@ -76,6 +76,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | SABERTOOTH 990FX ... | 2016 | 3       | 60      | 0           |
 | Gigabyte... | P55M-UD4             | 2009 | 2       | 60      | 0           |
 | Gigabyte... | P55-UD3L             | 2010 | 14      | 59      | 0           |
+| ASUSTek ... | ROG STRIX X399-E ... | 2017 | 7       | 59      | 0           |
 | Gigabyte... | P55M-UD2             | 2009 | 5       | 59      | 0           |
 | Gigabyte... | H55-UD3H             | 2010 | 5       | 58      | 0           |
 | Gigabyte... | P55-US3L             | 2009 | 5       | 58      | 0           |
@@ -83,7 +84,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | P55-UD3              | 2009 | 2       | 58      | 0           |
 | ASUSTek ... | P7H55-M PRO          | 2010 | 10      | 57      | 0           |
 | ASUSTek ... | P5N-E SLI            | 2007 | 7       | 57      | 0           |
-| Biostar     | TH55B HD             | 2010 | 2       | 57      | 0           |
 | ASUSTek ... | P7H55-M SI           | 2010 | 2       | 57      | 0           |
 | ASRock      | P55 Pro/USB3         | 2010 | 2       | 57      | 0           |
 | ASUSTek ... | ROG CROSSHAIR VII... | 2018 | 14      | 56      | 0           |
@@ -92,8 +92,8 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | H55M-D2H             | 2010 | 4       | 56      | 0           |
 | MSI         | MS-7350              | 2007 | 4       | 56      | 0           |
 | ASUSTek ... | Maximus III Formula  | 2010 | 2       | 56      | 0           |
+| Gigabyte... | X570 I AORUS PRO ... | 2019 | 6       | 55      | 0           |
 | MSI         | MS-7B78              | 2018 | 6       | 55      | 0           |
-| Gigabyte... | X570 I AORUS PRO ... | 2019 | 5       | 55      | 0           |
 | Gigabyte... | X399 AORUS Gaming 7  | 2018 | 4       | 55      | 0           |
 | ASRock      | X470 Gaming K4       | 2018 | 4       | 55      | 0           |
 | Gigabyte... | F2A85XM-HD3          | 2012 | 3       | 55      | 0           |
@@ -112,13 +112,12 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | P55 Pro              | 2009 | 3       | 53      | 0           |
 | MSI         | MS-7586              | 2009 | 2       | 53      | 0           |
 | Intel       | DP55WB AAE64798-206  | 2009 | 2       | 53      | 0           |
+| Gigabyte... | B450 AORUS ELITE     | 2018 | 8       | 52      | 0           |
 | Dell        | Inspiron 5675        | 2017 | 8       | 52      | 0           |
-| Gigabyte... | B450 AORUS ELITE     | 2018 | 7       | 52      | 0           |
 | ASUSTek ... | ROG STRIX X470-I ... | 2018 | 6       | 52      | 0           |
-| ASUSTek ... | ROG STRIX X399-E ... | 2017 | 6       | 52      | 0           |
 | Acer        | Aspire M5811         | 2009 | 6       | 52      | 0           |
+| Dell        | Precision WorkSta... | 2008 | 6       | 52      | 0           |
 | ASUSTek ... | P7H55-M LX           | 2010 | 5       | 52      | 0           |
-| Dell        | Precision WorkSta... | 2008 | 5       | 52      | 0           |
 | Gigabyte... | AX370-Gaming K5      | 2017 | 4       | 52      | 0           |
 | ASUSTek ... | P8Z68 DELUXE/GEN3    | 2012 | 4       | 52      | 0           |
 | Gigabyte... | Z97X-UD5H-BK         | 2014 | 3       | 52      | 0           |
@@ -169,7 +168,9 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | X370 Gaming-ITX/ac   | 2017 | 2       | 49      | 0           |
 | MSI         | MS-7A46              | 2016 | 2       | 49      | 0           |
 | Lenovo      | ThinkStation D20 ... | 2014 | 2       | 49      | 0           |
+| ASRock      | Z68 Professional ... | 2012 | 2       | 49      | 0           |
 | Intel       | DP55WG AAE57269-408  | 2011 | 2       | 49      | 0           |
+| Hewlett-... | Z200 Workstation     | 2010 | 2       | 49      | 0           |
 | Acer        | Aspire M5910         | 2010 | 2       | 49      | 0           |
 | Gateway     | FX540XG              | 2008 | 2       | 49      | 0           |
 | MSI         | MS-7346              | 2007 | 2       | 49      | 0           |
@@ -179,11 +180,11 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Lenovo      | H535 10117           | 2013 | 5       | 48      | 0           |
 | ASUSTek ... | STRIX Z270E GAMING   | 2016 | 4       | 48      | 0           |
 | Dell        | Precision WorkSta... | 2008 | 4       | 48      | 0           |
+| MSI         | MS-7B24              | 2018 | 3       | 48      | 0           |
+| ASRock      | FM2A85X Extreme6     | 2013 | 3       | 48      | 0           |
 | Biostar     | X370GT5              | 2018 | 2       | 48      | 0           |
 | ASUSTek ... | ROG Maximus XI FO... | 2018 | 2       | 48      | 0           |
 | MSI         | MS-7A31              | 2017 | 2       | 48      | 0           |
-| ASRock      | FM2A85X Extreme6     | 2013 | 2       | 48      | 0           |
-| ASRock      | Z68 Professional ... | 2012 | 2       | 48      | 0           |
 | Gigabyte... | GA-78LMT-USB3        | 2012 | 35      | 47      | 0           |
 | Gigabyte... | 990FXA-UD3           | 2013 | 12      | 47      | 0           |
 | Gigabyte... | X570 AORUS PRO       | 2019 | 5       | 47      | 0           |
@@ -211,7 +212,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | A320M-DGS            | 2018 | 4       | 46      | 0           |
 | ASRock      | 980DE3/U3S3 R2.0     | 2015 | 4       | 46      | 0           |
 | ASRock      | 980DE3/U3S3          | 2013 | 4       | 46      | 0           |
-| MSI         | MS-7B24              | 2018 | 3       | 46      | 0           |
 | Gigabyte... | M61P-S3              | 2006 | 3       | 46      | 0           |
 | Gigabyte... | Z390 DESIGNARE       | 2019 | 2       | 46      | 0           |
 | Dell        | Inspiron 5676        | 2018 | 2       | 46      | 0           |
@@ -232,20 +232,22 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | AB350M               | 2017 | 3       | 45      | 0           |
 | ASUSTek ... | F1A55-M LX           | 2012 | 3       | 45      | 0           |
 | Dell        | Inspiron 620         | 2011 | 3       | 45      | 0           |
+| ASUSTek ... | ROG STRIX B450-E ... | 2019 | 2       | 45      | 0           |
 | ASRockRack  | X470D4U              | 2019 | 2       | 45      | 0           |
 | Gigabyte... | Z370M DS3H           | 2018 | 2       | 45      | 0           |
 | Biostar     | X370GTN              | 2018 | 2       | 45      | 0           |
 | ASRock      | AB350M-HDV R3.0      | 2018 | 2       | 45      | 0           |
 | ASUSTek ... | A88X-PLUS/USB        | 2016 | 2       | 45      | 0           |
+| Gigabyte... | GA-770TA-UD3         | 2009 | 2       | 45      | 0           |
 | Gigabyte... | GA-MA785GMT-UD2H     | 2009 | 12      | 44      | 0           |
 | ASUSTek ... | A88XM-PLUS           | 2014 | 9       | 44      | 0           |
 | MSI         | MS-7793              | 2013 | 9       | 44      | 0           |
 | ASRock      | B450M-HDV R4.0       | 2018 | 6       | 44      | 0           |
+| Gigabyte... | GA-880GM-USB3        | 2011 | 6       | 44      | 0           |
 | Gigabyte... | GA-870A-USB3         | 2011 | 6       | 44      | 0           |
 | ASUSTek ... | P8P67 DELUXE         | 2010 | 6       | 44      | 0           |
 | ASUSTek ... | TUF B350M-PLUS GA... | 2017 | 5       | 44      | 0           |
 | Gigabyte... | 970-GAMING           | 2016 | 5       | 44      | 0           |
-| Gigabyte... | GA-880GM-USB3        | 2011 | 5       | 44      | 0           |
 | ASRock      | 870 Extreme3 R2.0    | 2011 | 5       | 44      | 0           |
 | ASRock      | 970DE3/U3S3          | 2013 | 4       | 44      | 0           |
 | ASUSTek ... | M5A97 EVO            | 2011 | 4       | 44      | 0           |
@@ -270,11 +272,11 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | M3A770DE             | 2009 | 9       | 43      | 0           |
 | ASUSTek ... | M4A89GTD-PRO/USB3    | 2010 | 8       | 43      | 0           |
 | Gigabyte... | P35-S3G              | 2007 | 8       | 43      | 0           |
+| ASUSTek ... | P5B-Deluxe           | 2007 | 8       | 43      | 0           |
 | ASRock      | A320M-HD             | 2018 | 7       | 43      | 0           |
 | ASUSTek ... | P8Z68-V GEN3         | 2011 | 7       | 43      | 0           |
 | ASUSTek ... | F1A75-M LE           | 2011 | 7       | 43      | 0           |
 | Medion      | MS-7502              | 2007 | 7       | 43      | 0           |
-| ASUSTek ... | P5B-Deluxe           | 2007 | 7       | 43      | 0           |
 | Gigabyte... | B250-FinTech         | 2018 | 5       | 43      | 0           |
 | ASUSTek ... | F2A85-V PRO          | 2012 | 5       | 43      | 0           |
 | Biostar     | A780L3L              | 2010 | 5       | 43      | 0           |
@@ -368,6 +370,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | M2A-MVP              | 2006 | 4       | 41      | 0           |
 | Gigabyte... | Z390 AORUS MASTER    | 2018 | 3       | 41      | 0           |
 | Alienware   | Aurora R7            | 2018 | 3       | 41      | 0           |
+| Gigabyte... | Z270X-Ultra Gaming   | 2017 | 3       | 41      | 0           |
 | Gigabyte... | Z170X-UD3            | 2016 | 3       | 41      | 0           |
 | ASRock      | FM2A88M-HD+ R3.0     | 2015 | 3       | 41      | 0           |
 | Biostar     | TA970                | 2014 | 3       | 41      | 0           |
@@ -443,7 +446,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | DEPO Com... | C51GM03              | 2006 | 3       | 40      | 0           |
 | ASUSTek ... | PRIME A320M-E        | 2018 | 2       | 40      | 0           |
 | ASRock      | H97 Killer           | 2018 | 2       | 40      | 0           |
-| Gigabyte... | Z270X-Ultra Gaming   | 2017 | 2       | 40      | 0           |
 | Gigabyte... | 970A-DS3P FX         | 2017 | 2       | 40      | 0           |
 | ASRock      | Z270 Killer SLI/ac   | 2016 | 2       | 40      | 0           |
 | ASRock      | 970 Performance      | 2014 | 2       | 40      | 0           |
@@ -466,9 +468,9 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | G41MT-S2PT           | 2011 | 14      | 39      | 0           |
 | Hewlett-... | Compaq 8000 Elite... | 2009 | 12      | 39      | 0           |
 | ASUSTek ... | P8H67-V              | 2011 | 9       | 39      | 0           |
+| Dell        | Inspiron 560         | 2010 | 9       | 39      | 0           |
 | ASUSTek ... | M2A-MX               | 2007 | 9       | 39      | 0           |
 | MSI         | MS-7715              | 2011 | 8       | 39      | 0           |
-| Dell        | Inspiron 560         | 2010 | 8       | 39      | 0           |
 | ASUSTek ... | M4A77T               | 2010 | 8       | 39      | 0           |
 | ASRock      | H97 Pro4             | 2014 | 7       | 39      | 0           |
 | Gigabyte... | GA-MA785GM-US2H      | 2009 | 7       | 39      | 0           |
@@ -492,7 +494,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Dell        | Inspiron 545         | 2009 | 4       | 39      | 0           |
 | ASUSTek ... | M3N78-EMH HDMI       | 2008 | 4       | 39      | 0           |
 | Gigabyte... | P35-DS3P             | 2007 | 4       | 39      | 0           |
-| MSI         | MS-7238              |      | 4       | 39      | 0           |
+| MSI         | MS-7238              | 2006 | 4       | 39      | 0           |
 | ASRock      | AB350M Pro4 R2.0     | 2018 | 3       | 39      | 0           |
 | Gigabyte... | Z270X-Gaming K5      | 2016 | 3       | 39      | 0           |
 | Gigabyte... | Z170-HD3             | 2016 | 3       | 39      | 0           |
@@ -523,6 +525,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | N68-GE               | 2010 | 2       | 39      | 0           |
 | Supermicro  | C2SBC-Q              | 2008 | 2       | 39      | 0           |
 | ASUSTek ... | P5E64 WS EVOLUTION   | 2008 | 2       | 39      | 0           |
+| K-Systems   | MS-7253              | 2007 | 2       | 39      | 0           |
 | Foxconn     | OEM                  | 2006 | 2       | 39      | 0           |
 | MSI         | MS-7597              | 2009 | 19      | 38      | 0           |
 | ASUSTek ... | P8H67-M PRO          | 2011 | 10      | 38      | 0           |
@@ -588,13 +591,13 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | GA-A55M-DS2          | 2011 | 9       | 37      | 0           |
 | ASRock      | G41M-GS3             | 2010 | 8       | 37      | 0           |
 | ECS         | GeForce7050M-M       | 2007 | 8       | 37      | 0           |
+| Gigabyte... | Z170X-Gaming 3       | 2015 | 6       | 37      | 0           |
 | Intel       | SHARKBAY             | 2013 | 6       | 37      | 0           |
 | Lenovo      | IdeaCentre Q180 1... | 2011 | 6       | 37      | 0           |
 | ASRock      | M3A UCC              | 2010 | 6       | 37      | 0           |
 | Hewlett-... | Compaq dc7800p Sm... | 2007 | 6       | 37      | 0           |
 | ASUSTek ... | P5B-VM               | 2006 | 6       | 37      | 0           |
 | Gigabyte... | B250M-D3H            | 2016 | 5       | 37      | 0           |
-| Gigabyte... | Z170X-Gaming 3       | 2015 | 5       | 37      | 0           |
 | ASUSTek ... | B150M-C              | 2015 | 5       | 37      | 0           |
 | Gigabyte... | P61A-D3              | 2011 | 5       | 37      | 0           |
 | Gigabyte... | GA-880GM-D2H         | 2010 | 5       | 37      | 0           |
@@ -612,6 +615,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Hewlett-... | Compaq dc5750 Sma... | 2007 | 4       | 37      | 0           |
 | ASRock      | K8NF4G-SATA2         | 2005 | 4       | 37      | 0           |
 | LattePanda  | Alpha                | 2018 | 3       | 37      | 0           |
+| ASUSTek ... | TUF Z370-PLUS GAMING | 2018 | 3       | 37      | 0           |
 | Gigabyte... | Z87X-UD4H            | 2014 | 3       | 37      | 0           |
 | Gigabyte... | B75M-D3P             | 2013 | 3       | 37      | 0           |
 | ASRock      | Z77 Performance      | 2013 | 3       | 37      | 0           |
@@ -782,7 +786,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Packard ... | imedia S1300         | 2010 | 4       | 35      | 0           |
 | Hewlett-... | Compaq dc7900 Ult... | 2009 | 4       | 35      | 0           |
 | ASRock      | 775i945GZ            | 2006 | 4       | 35      | 0           |
-| ASUSTek ... | TUF Z370-PLUS GAMING | 2018 | 3       | 35      | 0           |
+| Dell        | DV051                | 2005 | 4       | 35      | 0           |
 | Acer        | Aspire XC-780        | 2016 | 3       | 35      | 0           |
 | Gigabyte... | F2A68HM-HD2          | 2015 | 3       | 35      | 0           |
 | Fujitsu     | ESPRIMO P520         | 2015 | 3       | 35      | 0           |
@@ -802,7 +806,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | M4A785D-M PRO        | 2010 | 3       | 35      | 0           |
 | Fujitsu ... | ESPRIMO C5730        | 2009 | 3       | 35      | 0           |
 | Gigabyte... | GA-MA78G-DS3H        | 2008 | 3       | 35      | 0           |
-| Dell        | DV051                | 2005 | 3       | 35      | 0           |
 | MSI         | MS-7B18              | 2018 | 2       | 35      | 0           |
 | ASUSTek ... | PRIME Z270-AR        | 2018 | 2       | 35      | 0           |
 | MSI         | MS-7B49              | 2017 | 2       | 35      | 0           |
@@ -851,6 +854,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gateway     | DX4860               | 2011 | 7       | 34      | 0           |
 | ASUSTek ... | P5G41T-M LE          | 2009 | 7       | 34      | 0           |
 | ASRock      | ConRoe945G-DVI       | 2006 | 6       | 34      | 0           |
+| ASUSTek ... | PRIME B250M-PLUS     | 2016 | 5       | 34      | 0           |
 | Gigabyte... | B85M-DS3H-A          | 2015 | 5       | 34      | 0           |
 | ASRock      | FM2A75M Pro4+        | 2014 | 5       | 34      | 0           |
 | Gigabyte... | H87M-D3H             | 2013 | 5       | 34      | 0           |
@@ -866,6 +870,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | Z87 Extreme4         | 2013 | 4       | 34      | 0           |
 | ASRock      | Z77 Pro4-M           | 2013 | 4       | 34      | 0           |
 | ASRock      | H81M-DGS R2.0        | 2013 | 4       | 34      | 0           |
+| Gigabyte... | H61M-S2V-B3          | 2012 | 4       | 34      | 0           |
 | Gigabyte... | Z68A-D3H-B3          | 2011 | 4       | 34      | 0           |
 | Gigabyte... | M52LT-D3             | 2010 | 4       | 34      | 0           |
 | ASUSTek ... | M2A74-AM             | 2009 | 4       | 34      | 0           |
@@ -876,9 +881,9 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | STRIX B250I GAMING   | 2017 | 3       | 34      | 0           |
 | Gigabyte... | Z97X-SOC Force       | 2014 | 3       | 34      | 0           |
 | ASRock      | B85M Pro3            | 2014 | 3       | 34      | 0           |
+| Medion      | MS-7848              | 2013 | 3       | 34      | 0           |
 | Gigabyte... | Z87M-D3H             | 2013 | 3       | 34      | 0           |
 | Gigabyte... | H61MA-D3V            | 2012 | 3       | 34      | 0           |
-| Gigabyte... | H61M-S2V-B3          | 2012 | 3       | 34      | 0           |
 | ASRock      | Z77 Extreme3         | 2012 | 3       | 34      | 0           |
 | ASUSTek ... | P8H61-M LX PLUS      | 2011 | 3       | 34      | 0           |
 | Hewlett-... | xw4600 Workstation   | 2010 | 3       | 34      | 0           |
@@ -887,13 +892,15 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Foxconn     | G31MV/G31MV-K FAB    | 2008 | 3       | 34      | 0           |
 | PCChips     | A13G                 | 2007 | 3       | 34      | 0           |
 | K-Systems   | G31T-M               | 2007 | 3       | 34      | 0           |
+| Gigabyte... | H370HD3              | 2018 | 2       | 34      | 0           |
 | Acer        | Veriton EX2620G      | 2018 | 2       | 34      | 0           |
+| ASUSTek ... | Z170I PRO GAMING     | 2018 | 2       | 34      | 0           |
 | Gigabyte... | H270M-DS3H           | 2017 | 2       | 34      | 0           |
 | Gigabyte... | H270-HD3             | 2017 | 2       | 34      | 0           |
 | Gigabyte... | Z270X-UD5            | 2016 | 2       | 34      | 0           |
 | Biostar     | A68N-5545            | 2016 | 2       | 34      | 0           |
+| ASUSTek ... | Maximus VIII IMPACT  | 2016 | 2       | 34      | 0           |
 | MSI         | MS-7865              | 2014 | 2       | 34      | 0           |
-| Medion      | MS-7848              | 2013 | 2       | 34      | 0           |
 | ASRock      | Z87 Pro4             | 2013 | 2       | 34      | 0           |
 | Shuttle     | SH61R                | 2012 | 2       | 34      | 0           |
 | Gigabyte... | GA-78LMT-S2PT        | 2012 | 2       | 34      | 0           |
@@ -935,6 +942,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Hewlett-... | Compaq dc7700 Con... | 2006 | 5       | 33      | 0           |
 | Gigabyte... | GA-K8NMF-9           | 2005 | 5       | 33      | 0           |
 | Dell        | OptiPlex 3060        | 2018 | 4       | 33      | 0           |
+| ASUSTek ... | PRIME Z270M-PLUS     | 2016 | 4       | 33      | 0           |
 | ASUSTek ... | B150M-A/M.2          | 2016 | 4       | 33      | 0           |
 | Intel       | CRESCENTBAY          | 2015 | 4       | 33      | 0           |
 | Acer        | Aspire TC-605        | 2013 | 4       | 33      | 0           |
@@ -943,7 +951,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | G41MT-D3V            | 2011 | 4       | 33      | 0           |
 | ASRock      | ALiveNF6G-VSTA       | 2007 | 4       | 33      | 0           |
 | ASUSTek ... | Z170M-PLUS/BR        | 2016 | 3       | 33      | 0           |
-| ASUSTek ... | PRIME Z270M-PLUS     | 2016 | 3       | 33      | 0           |
 | Gigabyte... | F2A58M-HD2           | 2014 | 3       | 33      | 0           |
 | ASRock      | FM2A55M-DGS R2.0     | 2013 | 3       | 33      | 0           |
 | ASUSTek ... | CM6870               | 2012 | 3       | 33      | 0           |
@@ -996,8 +1003,8 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ECS         | nForce4-A939         | 2005 | 2       | 33      | 0           |
 | ASUSTek ... | P8H61-M LE R2.0      | 2012 | 13      | 32      | 0           |
 | Hewlett-... | Compaq dc7700 Sma... | 2006 | 12      | 32      | 0           |
+| Gigabyte... | EG41MF-US2H          | 2009 | 9       | 32      | 0           |
 | Hewlett-... | Compaq 6200 Pro S... | 2011 | 8       | 32      | 0           |
-| Gigabyte... | EG41MF-US2H          | 2009 | 7       | 32      | 0           |
 | Dell        | OptiPlex GX520       | 2005 | 7       | 32      | 0           |
 | Acer        | Nitro N50-600        | 2018 | 6       | 32      | 0           |
 | Hewlett-... | EliteDesk 800 G1 ... | 2013 | 6       | 32      | 0           |
@@ -1008,6 +1015,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Biostar     | G41D3C               | 2010 | 5       | 32      | 0           |
 | ASRock      | N68C-GS UCC          | 2010 | 5       | 32      | 0           |
 | ECS         | NFORCE6M-A           | 2007 | 5       | 32      | 0           |
+| ASUSTek ... | P5KPL-C              | 2007 | 5       | 32      | 0           |
 | Gigabyte... | B250M-D2V            | 2016 | 4       | 32      | 0           |
 | ASUSTek ... | H170 PRO GAMING      | 2015 | 4       | 32      | 0           |
 | ASRock      | H81M-DG4             | 2015 | 4       | 32      | 0           |
@@ -1020,7 +1028,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | P5G41-M              | 2009 | 4       | 32      | 0           |
 | Gigabyte... | G31M-S2C             | 2008 | 4       | 32      | 0           |
 | Biostar     | NF61S-M2A            | 2007 | 4       | 32      | 0           |
-| ASUSTek ... | P5KPL-C              | 2007 | 4       | 32      | 0           |
 | ASUSTek ... | PRIME H270-PLUS      | 2017 | 3       | 32      | 0           |
 | Hewlett-... | EliteDesk 800 G2 SFF | 2016 | 3       | 32      | 0           |
 | ASRock      | N3700-ITX            | 2015 | 3       | 32      | 0           |
@@ -1034,10 +1041,10 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Hewlett-... | Pro 3010 Microtow... | 2009 | 3       | 32      | 0           |
 | ASRock      | 939A785GMH/128M      | 2009 | 3       | 32      | 0           |
 | Gigabyte... | EG31MF-S2            | 2008 | 3       | 32      | 0           |
+| Biostar     | R690A-M2T            | 2008 | 3       | 32      | 0           |
 | Nvidia      | NF-MCP68             | 2007 | 3       | 32      | 0           |
 | MSI         | MS-7379              | 2007 | 3       | 32      | 0           |
 | ASUSTek ... | P5GC-VM              | 2007 | 3       | 32      | 0           |
-| Biostar     | R690A-M2T            |      | 3       | 32      | 0           |
 | MSI         | MS-7B19              | 2018 | 2       | 32      | 0           |
 | ASUSTek ... | TUF Z270 MARK 2      | 2018 | 2       | 32      | 0           |
 | ASRock      | Z390 Pro4            | 2018 | 2       | 32      | 0           |
@@ -1101,7 +1108,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | B250M-HDV            | 2017 | 3       | 31      | 0           |
 | MSI         | MS-7A63              | 2016 | 3       | 31      | 0           |
 | Gigabyte... | H110M-S2PV           | 2016 | 3       | 31      | 0           |
-| ASUSTek ... | PRIME B250M-PLUS     | 2016 | 3       | 31      | 0           |
 | ASUSTek ... | H110M-PLUS           | 2016 | 3       | 31      | 0           |
 | Hewlett-... | 280 G1 MT            | 2015 | 3       | 31      | 0           |
 | Hewlett-... | ProDesk 400 G2 MT    | 2014 | 3       | 31      | 0           |
@@ -1155,21 +1161,21 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Pegatron    | IPPPV-D3G            | 2010 | 12      | 30      | 0           |
 | Hewlett-... | Pro 3500 Series      | 2012 | 10      | 30      | 0           |
 | Hewlett-... | Compaq dc7600 Sma... | 2005 | 10      | 30      | 0           |
+| Gigabyte... | B150M-D3H-CF         | 2015 | 6       | 30      | 0           |
 | Lenovo      | H520 10094           | 2012 | 6       | 30      | 0           |
 | ASUSTek ... | P8H61 R2.0           | 2012 | 6       | 30      | 0           |
 | ECS         | H61H2-M2             | 2011 | 6       | 30      | 0           |
 | Dell        | Vostro 260           | 2011 | 6       | 30      | 0           |
-| Gigabyte... | B150M-D3H-CF         | 2015 | 5       | 30      | 0           |
 | PCWare      | IPMH81G1             | 2014 | 5       | 30      | 0           |
 | Pegatron    | IPMH61P1             | 2012 | 5       | 30      | 0           |
 | Gigabyte... | Z68M-D2H             | 2012 | 5       | 30      | 0           |
 | Biostar     | B75MU3B              | 2012 | 5       | 30      | 0           |
+| Acer        | Aspire R3610         | 2009 | 5       | 30      | 0           |
 | MSI         | MS-7528              | 2008 | 5       | 30      | 0           |
 | ASUSTek ... | B250 MINING EXPERT   | 2017 | 4       | 30      | 0           |
 | ASRock      | H81M-ITX             | 2015 | 4       | 30      | 0           |
 | Pegatron    | IPMSB-H61            | 2010 | 4       | 30      | 0           |
 | Hewlett-... | 100eu                | 2010 | 4       | 30      | 0           |
-| Acer        | Aspire R3610         | 2009 | 4       | 30      | 0           |
 | Hewlett-... | Compaq dc5850 Mic... | 2008 | 4       | 30      | 0           |
 | Hewlett-... | Compaq dc7700p Sm... | 2006 | 4       | 30      | 0           |
 | Gigabyte... | 8I945PLGE-RH         | 2006 | 4       | 30      | 0           |
@@ -1251,6 +1257,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Intel       | D865PERL AAC27648... | 2003 | 3       | 29      | 0           |
 | Hewlett-... | ProDesk 400 G5 MT    | 2019 | 2       | 29      | 0           |
 | Gigabyte... | H370AORUSGAMING3WIFI | 2018 | 2       | 29      | 0           |
+| Gigabyte... | H310MS2P             | 2018 | 2       | 29      | 0           |
 | ASUSTek ... | PRIME H310-PLUS      | 2018 | 2       | 29      | 0           |
 | ASUSTek ... | STRIX B250F GAMING   | 2017 | 2       | 29      | 0           |
 | ASUSTek ... | H110M-C2             | 2017 | 2       | 29      | 0           |
@@ -1282,7 +1289,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | GA-K8N-SLi           | 2005 | 2       | 29      | 0           |
 | Fujitsu ... | D1931                | 2005 | 2       | 29      | 0           |
 | ECS         | 945P-A               | 2005 | 2       | 29      | 0           |
-| Hewlett-... | Compaq dc5100 SFF... | 2004 | 2       | 29      | 0           |
 | Gigabyte... | 8I915GMF             | 2004 | 2       | 29      | 0           |
 | ASUSTek ... | H61M-A/BR            | 2013 | 12      | 28      | 0           |
 | ASRock      | Q1900B-ITX           | 2014 | 7       | 28      | 0           |
@@ -1338,8 +1344,8 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | G31MX-S2             | 2008 | 2       | 28      | 0           |
 | DEPO Com... | MS-7267              | 2007 | 2       | 28      | 0           |
 | ASRock      | K8Upgrade-NF3        | 2005 | 2       | 28      | 0           |
+| AAEON       | MF-001               | 2017 | 8       | 27      | 0           |
 | ECS         | 945GCT-M2            | 2007 | 7       | 27      | 0           |
-| AAEON       | MF-001               | 2017 | 6       | 27      | 0           |
 | ASUSTek ... | P5S800-VM            | 2005 | 4       | 27      | 0           |
 | Digibras    | MPxx                 | 2014 | 3       | 27      | 0           |
 | Biostar     | H81MHV3              | 2014 | 3       | 27      | 0           |
@@ -1410,10 +1416,10 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Compaq      | Evo D510 SFF         | 2002 | 2       | 26      | 0           |
 | ASRock      | J3455B-ITX           | 2016 | 4       | 25      | 0           |
 | ASRock      | H110M-HDV R3.0       | 2018 | 3       | 25      | 0           |
+| BESSTAR     | Z83-W                | 2017 | 3       | 25      | 0           |
 | Gigabyte... | H110N                | 2016 | 3       | 25      | 0           |
 | Intel       | DH61WW AAG23116-303  | 2012 | 3       | 25      | 0           |
 | ASRock      | H61MV-ITX            | 2012 | 3       | 25      | 0           |
-| BESSTAR     | Z83-W                |      | 3       | 25      | 0           |
 | Lenovo      | IdeaCentre 510A-1... | 2019 | 2       | 25      | 0           |
 | Fujitsu     | D3644-B1 S26361-D... | 2019 | 2       | 25      | 0           |
 | Hewlett-... | ProDesk 600 G3 SFF   | 2018 | 2       | 25      | 0           |
@@ -1443,7 +1449,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Foxconn     | 661MXPlus            | 2007 | 2       | 22      | 0           |
 | MSI         | MS-7883              | 2016 | 2       | 111     | 1           |
 | ASRock      | EP2C602-4L/D16       | 2014 | 3       | 107     | 1           |
-| Apple       | MacPro5,1            | 2010 | 9       | 105     | 1           |
+| Apple       | MacPro5,1            | 2010 | 10      | 105     | 1           |
 | Dell        | Precision Tower 7810 | 2015 | 2       | 105     | 1           |
 | Huanan      | X99-F8               | 2019 | 2       | 104     | 1           |
 | ASRock      | X99 WS               | 2014 | 2       | 104     | 1           |
@@ -1468,7 +1474,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | X299 UD4 Pro         | 2017 | 4       | 81      | 1           |
 | Dell        | Precision T3600      | 2012 | 6       | 79      | 1           |
 | Dell        | Precision T7610      | 2014 | 2       | 79      | 1           |
-| Hewlett-... | Z400 Workstation     | 2010 | 23      | 78      | 1           |
+| Hewlett-... | Z400 Workstation     | 2010 | 24      | 78      | 1           |
 | Dell        | Studio XPS 9100      | 2010 | 5       | 78      | 1           |
 | ASUSTek ... | TUF X299 MARK 1      | 2018 | 3       | 78      | 1           |
 | Hewlett-... | Z600 Workstation     | 2009 | 11      | 76      | 1           |
@@ -1500,6 +1506,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | P7P55 LX             | 2010 | 17      | 57      | 1           |
 | Gigabyte... | H55M-S2H             | 2010 | 8       | 57      | 1           |
 | ASUSTek ... | P7P55D LE            | 2009 | 6       | 57      | 1           |
+| Biostar     | TH55B HD             | 2009 | 4       | 57      | 1           |
 | Gigabyte... | P55-UD3R             | 2010 | 2       | 57      | 1           |
 | Gigabyte... | H55M-USB3            | 2010 | 2       | 57      | 1           |
 | ASRock      | X470 Taichi          | 2018 | 7       | 56      | 1           |
@@ -1508,7 +1515,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | 990FX Extreme9       | 2016 | 4       | 56      | 1           |
 | Gigabyte... | AB350-Gaming 3       | 2017 | 17      | 55      | 1           |
 | ASUSTek ... | P8P67 PRO            | 2011 | 13      | 55      | 1           |
-| ASUSTek ... | P8Z68-V              | 2011 | 9       | 55      | 1           |
+| ASUSTek ... | P8Z68-V              | 2011 | 10      | 55      | 1           |
 | Gigabyte... | GA-MA770-DS3         | 2008 | 8       | 55      | 1           |
 | MSI         | MS-7B93              | 2019 | 3       | 55      | 1           |
 | ASUSTek ... | P7P55-M              | 2010 | 5       | 54      | 1           |
@@ -1524,11 +1531,12 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | MSI         | MS-7636              | 2010 | 18      | 53      | 1           |
 | ASUSTek ... | P7H55-M              | 2010 | 12      | 53      | 1           |
 | Dell        | OptiPlex 980         | 2010 | 7       | 53      | 1           |
-| ASRock      | X570 Phantom Gami... | 2019 | 5       | 53      | 1           |
+| ASRock      | X570 Phantom Gami... | 2019 | 6       | 53      | 1           |
 | Gigabyte... | X470 AORUS GAMING... | 2018 | 2       | 53      | 1           |
 | Gigabyte... | 970A-UD3P            | 2013 | 19      | 52      | 1           |
 | MSI         | MS-7B86              | 2018 | 13      | 52      | 1           |
 | ASRock      | Z97 Extreme6         | 2015 | 5       | 52      | 1           |
+| ASRock      | X570 Taichi          | 2019 | 4       | 52      | 1           |
 | Gigabyte... | Z77X-UP5 TH-CF       | 2012 | 4       | 52      | 1           |
 | ASUSTek ... | P8H67                | 2010 | 25      | 51      | 1           |
 | Gigabyte... | B85M-D3H             | 2013 | 16      | 51      | 1           |
@@ -1536,7 +1544,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | MSI         | MS-7A33              | 2017 | 12      | 51      | 1           |
 | Intel       | DH55HC AAE70933-501  | 2009 | 6       | 51      | 1           |
 | ASUSTek ... | P5QLD PRO            | 2009 | 5       | 51      | 1           |
-| ASRock      | X570 Taichi          | 2019 | 3       | 51      | 1           |
 | Supermicro  | X8SIL                | 2009 | 3       | 51      | 1           |
 | Gigabyte... | X38-DQ6              | 2008 | 3       | 51      | 1           |
 | ASRock      | X470 Taichi Ultimate | 2018 | 2       | 51      | 1           |
@@ -1545,24 +1552,24 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | M4A87TD/USB3         | 2010 | 17      | 50      | 1           |
 | ASUSTek ... | P5W DH Deluxe        | 2007 | 11      | 50      | 1           |
 | ASRock      | X370 Taichi          | 2017 | 10      | 50      | 1           |
-| Gigabyte... | Z77X-UD5H            | 2012 | 9       | 50      | 1           |
+| Gigabyte... | Z77X-UD5H            | 2012 | 10      | 50      | 1           |
 | Gigabyte... | Z68X-UD3H-B3         | 2011 | 8       | 50      | 1           |
 | ASRock      | B450 Gaming K4       | 2018 | 7       | 50      | 1           |
 | ASUSTek ... | CROSSHAIR VI HERO    | 2017 | 7       | 50      | 1           |
 | Gigabyte... | GA-880GA-UD3H        | 2010 | 7       | 50      | 1           |
-| Gigabyte... | X570 AORUS PRO WIFI  | 2019 | 5       | 50      | 1           |
-| ASUSTek ... | ROG STRIX B450-I ... | 2019 | 5       | 50      | 1           |
+| Gigabyte... | X570 AORUS PRO WIFI  | 2019 | 6       | 50      | 1           |
+| ASUSTek ... | ROG STRIX B450-I ... | 2019 | 6       | 50      | 1           |
 | ASUSTek ... | P5N-D                | 2008 | 4       | 50      | 1           |
 | Gigabyte... | Z270-HD3P            | 2017 | 3       | 50      | 1           |
 | Gigabyte... | 970A-DS3P            | 2013 | 85      | 49      | 1           |
-| ASUSTek ... | M5A99FX PRO R2.0     | 2012 | 24      | 49      | 1           |
+| ASUSTek ... | M5A99FX PRO R2.0     | 2012 | 25      | 49      | 1           |
 | Gigabyte... | GA-970A-UD3          | 2011 | 18      | 49      | 1           |
 | ASUSTek ... | SABERTOOTH 990FX     | 2011 | 16      | 49      | 1           |
-| Gigabyte... | Z77X-D3H             | 2012 | 13      | 49      | 1           |
+| Gigabyte... | Z77X-D3H             | 2012 | 14      | 49      | 1           |
 | MSI         | MS-7B89              | 2018 | 11      | 49      | 1           |
 | ASRock      | AB350 Pro4           | 2017 | 10      | 49      | 1           |
-| ASUSTek ... | P5K Premium          | 2007 | 9       | 49      | 1           |
-| ASUSTek ... | TUF GAMING X570-PLUS | 2019 | 7       | 49      | 1           |
+| ASUSTek ... | P5K Premium          | 2007 | 10      | 49      | 1           |
+| ASUSTek ... | TUF GAMING X570-PLUS | 2019 | 8       | 49      | 1           |
 | ASRock      | 890FX Deluxe4        | 2012 | 5       | 49      | 1           |
 | Gigabyte... | P67X-UD3-B3          | 2011 | 5       | 49      | 1           |
 | Dell        | Inspiron 580         | 2010 | 5       | 49      | 1           |
@@ -1572,8 +1579,8 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Intel       | DH55HC AAE70933-505  | 2010 | 3       | 49      | 1           |
 | Gigabyte... | GA-N650SLI-DS4L      | 2007 | 3       | 49      | 1           |
 | Hewlett-... | Pavilion Desktop ... | 2019 | 2       | 49      | 1           |
-| ASUSTek ... | PRIME A320M-K        | 2017 | 40      | 48      | 1           |
-| ASUSTek ... | PRIME B350M-A        | 2017 | 17      | 48      | 1           |
+| ASUSTek ... | PRIME A320M-K        | 2017 | 42      | 48      | 1           |
+| ASUSTek ... | PRIME B350M-A        | 2017 | 18      | 48      | 1           |
 | ASUSTek ... | M5A97 EVO R2.0       | 2013 | 17      | 48      | 1           |
 | MSI         | MS-7A32              | 2017 | 12      | 48      | 1           |
 | ASUSTek ... | M2NPV-VM             | 2006 | 10      | 48      | 1           |
@@ -1592,7 +1599,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | MSI         | MS-7697              | 2011 | 2       | 48      | 1           |
 | ASUSTek ... | P5Q3 DELUXE          | 2009 | 2       | 48      | 1           |
 | Dell        | OptiPlex 780         | 2009 | 49      | 47      | 1           |
-| Gigabyte... | B450M DS3H           | 2018 | 32      | 47      | 1           |
+| Gigabyte... | B450M DS3H           | 2018 | 33      | 47      | 1           |
 | ASUSTek ... | P5Q SE2              | 2008 | 29      | 47      | 1           |
 | Gigabyte... | B450 AORUS M         | 2018 | 16      | 47      | 1           |
 | ASUSTek ... | M5A78L-M LE/USB3     | 2015 | 14      | 47      | 1           |
@@ -1600,7 +1607,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | AB350M Pro4          | 2017 | 11      | 47      | 1           |
 | Gigabyte... | GA-MA78GM-S2H        | 2008 | 10      | 47      | 1           |
 | ASUSTek ... | M4A87TD EVO          | 2010 | 8       | 47      | 1           |
-| ASUSTek ... | PRIME Z390-A         | 2018 | 6       | 47      | 1           |
 | Gigabyte... | Z390 AORUS PRO       | 2018 | 5       | 47      | 1           |
 | ASUSTek ... | TUF X470-PLUS GAMING | 2018 | 5       | 47      | 1           |
 | ASUSTek ... | PRIME X570-P         | 2019 | 3       | 47      | 1           |
@@ -1626,21 +1632,20 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | M2N32 WS Professi... | 2006 | 3       | 46      | 1           |
 | ASRock      | X399 Phantom Gami... | 2019 | 2       | 46      | 1           |
 | ASRock      | 990FX Professional   | 2013 | 2       | 46      | 1           |
-| ASUSTek ... | M5A97 R2.0           | 2012 | 84      | 45      | 1           |
-| MSI         | MS-7641              |      | 33      | 45      | 1           |
+| ASUSTek ... | M5A97 R2.0           | 2012 | 85      | 45      | 1           |
+| MSI         | MS-7641              | 2011 | 33      | 45      | 1           |
 | ASUSTek ... | P8H77-V              | 2012 | 21      | 45      | 1           |
 | ASUSTek ... | P5K-E                | 2007 | 15      | 45      | 1           |
 | Dell        | XPS 8700             | 2013 | 14      | 45      | 1           |
 | ASUSTek ... | M5A97 PRO            | 2011 | 14      | 45      | 1           |
-| MSI         | MS-7971              | 2016 | 12      | 45      | 1           |
+| MSI         | MS-7971              | 2016 | 13      | 45      | 1           |
+| Gigabyte... | B450 I AORUS PRO ... | 2018 | 12      | 45      | 1           |
 | MSI         | MS-7640              | 2012 | 12      | 45      | 1           |
-| Gigabyte... | B450 I AORUS PRO ... | 2018 | 11      | 45      | 1           |
 | Gigabyte... | F2A88XM-D3H          | 2013 | 11      | 45      | 1           |
 | ASUSTek ... | M4A78T-E             | 2009 | 11      | 45      | 1           |
 | MSI         | MS-7681              | 2011 | 8       | 45      | 1           |
 | ASRock      | K10N78D              | 2010 | 7       | 45      | 1           |
 | ASUSTek ... | F2A55                | 2012 | 6       | 45      | 1           |
-| MSI         | MS-7A36              | 2018 | 5       | 45      | 1           |
 | ASUSTek ... | Rampage Formula      | 2008 | 5       | 45      | 1           |
 | Gigabyte... | Z390 M GAMING        | 2018 | 4       | 45      | 1           |
 | ASRock      | 970A-G               | 2015 | 4       | 45      | 1           |
@@ -1680,12 +1685,12 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | P5KC                 | 2007 | 23      | 43      | 1           |
 | Gigabyte... | A320M-S2H            | 2017 | 21      | 43      | 1           |
 | ASRock      | FM2A68M-DG3+         | 2015 | 21      | 43      | 1           |
+| Hewlett-... | Compaq 6000 Pro S... | 2009 | 18      | 43      | 1           |
 | ASUSTek ... | P8P67                | 2010 | 17      | 43      | 1           |
-| Hewlett-... | Compaq 6000 Pro S... | 2009 | 17      | 43      | 1           |
 | ASUSTek ... | P5B-VM SE            | 2007 | 17      | 43      | 1           |
 | Gigabyte... | GA-970A-DS3          | 2012 | 16      | 43      | 1           |
 | Gigabyte... | GA-780T-D3L          | 2012 | 16      | 43      | 1           |
-| ASUSTek ... | PRIME Z370-A         | 2017 | 14      | 43      | 1           |
+| ASUSTek ... | PRIME Z370-A         | 2017 | 15      | 43      | 1           |
 | ASUSTek ... | P8H61                | 2011 | 14      | 43      | 1           |
 | ASRock      | 970M Pro3            | 2015 | 13      | 43      | 1           |
 | ASUSTek ... | P8P67 LE             | 2011 | 11      | 43      | 1           |
@@ -1697,6 +1702,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | M4A88TD-M EVO        | 2010 | 7       | 43      | 1           |
 | MSI         | MS-7974              | 2015 | 6       | 43      | 1           |
 | ASRock      | M3N78D FX            | 2012 | 6       | 43      | 1           |
+| MSI         | MS-7A36              | 2018 | 5       | 43      | 1           |
 | ASUSTek ... | Maximus VIII HERO    | 2016 | 5       | 43      | 1           |
 | ASUSTek ... | F2A85-M PRO          | 2012 | 5       | 43      | 1           |
 | ASUSTek ... | SABERTOOTH P67       | 2012 | 4       | 43      | 1           |
@@ -1709,7 +1715,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | MSI         | MS-7B07              | 2017 | 2       | 43      | 1           |
 | Acer        | Aspire X3900         | 2009 | 2       | 43      | 1           |
 | WinFast     | 6100K8MB             | 2005 | 2       | 43      | 1           |
-| ASUSTek ... | M5A78L-M LX3         | 2012 | 67      | 42      | 1           |
+| ASUSTek ... | M5A78L-M LX3         | 2012 | 68      | 42      | 1           |
 | ASUSTek ... | P8Z77-V LX           | 2012 | 51      | 42      | 1           |
 | ASUSTek ... | M2N                  | 2006 | 30      | 42      | 1           |
 | ASUSTek ... | P8Z77-V LK           | 2012 | 20      | 42      | 1           |
@@ -1745,7 +1751,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | B75M-D3H             | 2012 | 33      | 41      | 1           |
 | MSI         | MS-7850              | 2013 | 26      | 41      | 1           |
 | ASUSTek ... | P5K SE/EPU           | 2008 | 25      | 41      | 1           |
-| Gigabyte... | M68M-S2P             |      | 21      | 41      | 1           |
+| Gigabyte... | M68M-S2P             | 2009 | 21      | 41      | 1           |
 | MSI         | MS-7821              | 2013 | 19      | 41      | 1           |
 | ASRock      | 960GM-GS3 FX         | 2011 | 19      | 41      | 1           |
 | Gigabyte... | F2A68HM-S1           | 2014 | 18      | 41      | 1           |
@@ -1758,10 +1764,9 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | EP43-DS3L            | 2008 | 8       | 41      | 1           |
 | MSI         | MS-7235              | 2006 | 8       | 41      | 1           |
 | Gigabyte... | F2A85XM-D3H          | 2012 | 7       | 41      | 1           |
+| ASRock      | H77 Pro4/MVP         | 2012 | 7       | 41      | 1           |
 | MSI         | MS-7B45              | 2017 | 6       | 41      | 1           |
-| ASRock      | H77 Pro4/MVP         | 2012 | 6       | 41      | 1           |
 | ASRock      | 970 Extreme3         | 2012 | 6       | 41      | 1           |
-| MSI         | MS-7695              | 2012 | 5       | 41      | 1           |
 | ASRock      | E350M1               | 2012 | 5       | 41      | 1           |
 | Gigabyte... | Z68XP-UD3            | 2011 | 5       | 41      | 1           |
 | ASUSTek ... | M4N78                | 2009 | 5       | 41      | 1           |
@@ -1770,11 +1775,10 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | MSI         | MS-7551              | 2009 | 4       | 41      | 1           |
 | Gigabyte... | EP43T-UD3L           | 2009 | 4       | 41      | 1           |
 | ASUSTek ... | P5Q-WS               | 2008 | 4       | 41      | 1           |
-| ASUSTek ... | P5E-VM HDMI          | 2008 | 4       | 41      | 1           |
+| ASUSTek ... | P5B-E                | 2006 | 4       | 41      | 1           |
 | ASRock      | A320M-HDV            | 2017 | 3       | 41      | 1           |
 | ASUSTek ... | M5A78L-M LX PLUS     | 2012 | 3       | 41      | 1           |
 | ASUSTek ... | M4A77T/USB3          | 2010 | 3       | 41      | 1           |
-| ASUSTek ... | P5B-E                | 2006 | 3       | 41      | 1           |
 | ASUSTek ... | PRIME B450M-K        | 2018 | 2       | 41      | 1           |
 | ASUSTek ... | Maximus IV Extreme-Z | 2011 | 2       | 41      | 1           |
 | ASUSTek ... | M3N-HD/HDMI          | 2008 | 2       | 41      | 1           |
@@ -1799,6 +1803,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | Z97-HD3              | 2014 | 7       | 40      | 1           |
 | Biostar     | G31-M7 TE            | 2008 | 7       | 40      | 1           |
 | ASUSTek ... | P5Q DELUXE           | 2008 | 7       | 40      | 1           |
+| MSI         | MS-7695              | 2012 | 5       | 40      | 1           |
 | Gigabyte... | H61M-D2H-USB3        | 2011 | 5       | 40      | 1           |
 | ASUSTek ... | M4A79T Deluxe        | 2009 | 4       | 40      | 1           |
 | ASUSTek ... | M3N78-EM             | 2008 | 4       | 40      | 1           |
@@ -1813,7 +1818,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | PRIMINFO    | UNLOCK INSTALL       | 2011 | 2       | 40      | 1           |
 | Gigabyte... | GA-MA790X-UD4P       | 2009 | 2       | 40      | 1           |
 | ASRock      | A780GXE/128M         | 2008 | 2       | 40      | 1           |
-| Dell        | OptiPlex 790         | 2011 | 31      | 39      | 1           |
+| Dell        | OptiPlex 790         | 2011 | 32      | 39      | 1           |
 | ASUSTek ... | P8H77-V LE           | 2012 | 28      | 39      | 1           |
 | ASUSTek ... | M5A78L-M LX          | 2011 | 23      | 39      | 1           |
 | ASUSTek ... | P8B75-V              | 2012 | 22      | 39      | 1           |
@@ -1869,15 +1874,15 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | H77-DS3H             | 2012 | 22      | 38      | 1           |
 | Gigabyte... | F2A55M-DS2           | 2012 | 20      | 38      | 1           |
 | MSI         | MS-7250              | 2006 | 19      | 38      | 1           |
+| Gigabyte... | Z77-D3H              | 2012 | 17      | 38      | 1           |
 | ASUSTek ... | P8Z68-V LX           | 2011 | 17      | 38      | 1           |
-| Gigabyte... | Z77-D3H              | 2012 | 16      | 38      | 1           |
 | ASRock      | 960GM-VGS3 FX        | 2012 | 16      | 38      | 1           |
 | MSI         | MS-7895              | 2015 | 15      | 38      | 1           |
 | ASRock      | Z87 Killer           | 2015 | 15      | 38      | 1           |
 | ASRock      | Z77 Pro3             | 2012 | 14      | 38      | 1           |
 | Gigabyte... | GA-MA74GM-S2H        | 2008 | 14      | 38      | 1           |
 | Gigabyte... | GA-MA69VM-S2         | 2007 | 12      | 38      | 1           |
-| ASUSTek ... | M3A78-CM             | 2009 | 10      | 38      | 1           |
+| ASUSTek ... | M3A78-CM             | 2009 | 11      | 38      | 1           |
 | Gigabyte... | EP31-DS3L            | 2008 | 10      | 38      | 1           |
 | Hewlett-... | Compaq dc7800 Sma... | 2007 | 10      | 38      | 1           |
 | ASUSTek ... | PRIME B360M-A        | 2018 | 9       | 38      | 1           |
@@ -1906,6 +1911,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | M3N78                | 2008 | 3       | 38      | 1           |
 | MSI         | MS-7327              | 2007 | 3       | 38      | 1           |
 | ECS         | P4M900T-M2           | 2007 | 3       | 38      | 1           |
+| Hewlett-... | Compaq dc5100 SFF... | 2004 | 3       | 38      | 1           |
 | Gigabyte... | Z370 HD3P            | 2017 | 2       | 38      | 1           |
 | Gigabyte... | 970A-D3              | 2013 | 2       | 38      | 1           |
 | Gigabyte... | G33M-S2              | 2009 | 2       | 38      | 1           |
@@ -1932,6 +1938,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | M2N-SLI              | 2007 | 13      | 37      | 1           |
 | Dell        | Precision WorkSta... | 2008 | 12      | 37      | 1           |
 | Gigabyte... | P67A-D3-B3           | 2011 | 10      | 37      | 1           |
+| MSI         | MS-7846              | 2013 | 9       | 37      | 1           |
 | ASRock      | ConRoe1333-D667      | 2007 | 9       | 37      | 1           |
 | ASUSTek ... | M4A77TD PRO          | 2010 | 8       | 37      | 1           |
 | MSI         | MS-7260              | 2006 | 8       | 37      | 1           |
@@ -1947,6 +1954,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ECS         | A55F2-M3             | 2013 | 4       | 37      | 1           |
 | Biostar     | A880G+               | 2011 | 4       | 37      | 1           |
 | Biostar     | P4M900-M7 FE         | 2008 | 4       | 37      | 1           |
+| ASUSTek ... | P5E-VM HDMI          | 2008 | 4       | 37      | 1           |
 | Itautec     | Infoway              | 2007 | 4       | 37      | 1           |
 | ASUSTek ... | M2R32-MVP            | 2007 | 4       | 37      | 1           |
 | ASRock      | Z270 Pro4            | 2017 | 3       | 37      | 1           |
@@ -1964,9 +1972,9 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | MSI         | MS-7592              | 2009 | 60      | 36      | 1           |
 | ASRock      | G41M-VS3             | 2010 | 43      | 36      | 1           |
 | Dell        | OptiPlex 3020        | 2013 | 32      | 36      | 1           |
-| Hewlett-... | Compaq 8200 Elite... | 2011 | 19      | 36      | 1           |
+| Hewlett-... | Compaq 8200 Elite... | 2011 | 20      | 36      | 1           |
 | ASUSTek ... | B75M-PLUS            | 2013 | 17      | 36      | 1           |
-| ASUSTek ... | M2N-MX SE Plus       | 2007 | 16      | 36      | 1           |
+| ASUSTek ... | M2N-MX SE Plus       | 2007 | 17      | 36      | 1           |
 | ASUSTek ... | P5LD2-VM             | 2005 | 16      | 36      | 1           |
 | Gigabyte... | H81M-S2PV            | 2013 | 14      | 36      | 1           |
 | ASUSTek ... | P8H67-M LE           | 2011 | 14      | 36      | 1           |
@@ -2005,10 +2013,10 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | MSI         | MS-7529              | 2008 | 56      | 35      | 1           |
 | ASUSTek ... | P8H61-M LX3 R2.0     | 2012 | 48      | 35      | 1           |
 | ASUSTek ... | P5KPL-AM IN/ROEM/SI  | 2009 | 43      | 35      | 1           |
-| ASUSTek ... | M2N68-AM SE2         | 2009 | 29      | 35      | 1           |
+| ASUSTek ... | M2N68-AM SE2         | 2009 | 30      | 35      | 1           |
 | Dell        | OptiPlex 9020        | 2013 | 25      | 35      | 1           |
+| Hewlett-... | Compaq Elite 8300... | 2012 | 24      | 35      | 1           |
 | ASUSTek ... | P5QPL-AM             | 2009 | 24      | 35      | 1           |
-| Hewlett-... | Compaq Elite 8300... | 2012 | 22      | 35      | 1           |
 | ASUSTek ... | P5KPL-CM             | 2008 | 19      | 35      | 1           |
 | ASUSTek ... | B75M-A               | 2013 | 18      | 35      | 1           |
 | ASRock      | G31M-VS              | 2009 | 18      | 35      | 1           |
@@ -2060,13 +2068,13 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | G41C-GS              | 2010 | 14      | 34      | 1           |
 | ASUSTek ... | M2N68-AM Plus        | 2009 | 14      | 34      | 1           |
 | Biostar     | N68S3B               | 2010 | 12      | 34      | 1           |
-| ASUSTek ... | P4P800SE             | 2004 | 11      | 34      | 1           |
+| ASUSTek ... | P4P800SE             | 2004 | 12      | 34      | 1           |
 | Gigabyte... | P41-ES3G             | 2009 | 9       | 34      | 1           |
 | ASUSTek ... | P8H61-M LX3 PLUS ... | 2012 | 8       | 34      | 1           |
+| Dell        | XPS 8500             | 2012 | 7       | 34      | 1           |
 | DEPO Com... | H61H2-M6             | 2011 | 7       | 34      | 1           |
 | ASRock      | G41C-VS              | 2009 | 7       | 34      | 1           |
 | ASUSTek ... | P4P800               | 2003 | 7       | 34      | 1           |
-| Dell        | XPS 8500             | 2012 | 6       | 34      | 1           |
 | Gigabyte... | M52L-S3P             | 2008 | 6       | 34      | 1           |
 | WinFast     | MCP61M2MA            | 2007 | 6       | 34      | 1           |
 | Hewlett-... | Compaq dc5700 Mic... | 2006 | 6       | 34      | 1           |
@@ -2094,6 +2102,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | M3A785GMH/128M       | 2009 | 3       | 34      | 1           |
 | Foxconn     | P4M890-8237          | 2006 | 3       | 34      | 1           |
 | ECS         | P4M890T-M            | 2006 | 3       | 34      | 1           |
+| ASUSTek ... | K8V-MX               | 2005 | 3       | 34      | 1           |
 | ASUSTek ... | A8N-SLI DELUXE       | 2005 | 3       | 34      | 1           |
 | Hewlett-... | Pavilion Desktop ... | 2018 | 2       | 34      | 1           |
 | Hewlett-... | 290 G2 MT Busines... | 2018 | 2       | 34      | 1           |
@@ -2111,8 +2120,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | EPoX Com... | nForce4 DDR2: MF4... | 2006 | 2       | 34      | 1           |
 | ASUSTek ... | A8N-SLI Premium      | 2006 | 2       | 34      | 1           |
 | MSI         | MS-7142              | 2005 | 2       | 34      | 1           |
-| ASUSTek ... | K8V-MX               | 2005 | 2       | 34      | 1           |
-| ASUSTek ... | H110M-K              | 2016 | 28      | 33      | 1           |
+| ASUSTek ... | H110M-K              | 2016 | 29      | 33      | 1           |
 | Dell        | OptiPlex 380         | 2009 | 19      | 33      | 1           |
 | ASUSTek ... | P5KPL-AM IN/GB       | 2009 | 19      | 33      | 1           |
 | Gigabyte... | M61PME-S2P           | 2008 | 18      | 33      | 1           |
@@ -2121,6 +2129,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | PRIME H310M-R R2.0   | 2018 | 14      | 33      | 1           |
 | Dell        | OptiPlex 3010        | 2012 | 13      | 33      | 1           |
 | ASRock      | H81M-VG4 R2.0        | 2014 | 12      | 33      | 1           |
+| MSI         | MS-7A74              | 2017 | 10      | 33      | 1           |
 | ASUSTek ... | PRIME Z370-P         | 2017 | 10      | 33      | 1           |
 | Gigabyte... | M68MT-S2P            | 2010 | 10      | 33      | 1           |
 | ECS         | G31T-M               | 2007 | 10      | 33      | 1           |
@@ -2130,6 +2139,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | M4N68T-M LE          | 2010 | 8       | 33      | 1           |
 | ASUSTek ... | M2N-MX SE            | 2007 | 8       | 33      | 1           |
 | Gigabyte... | 8IPE1000-G/L         | 2005 | 8       | 33      | 1           |
+| ASRock      | H97 Anniversary      | 2014 | 7       | 33      | 1           |
 | MSI         | MS-7798              | 2012 | 7       | 33      | 1           |
 | ASUSTek ... | P5GV-MX              | 2005 | 7       | 33      | 1           |
 | Fujitsu     | ESPRIMO P710         | 2012 | 6       | 33      | 1           |
@@ -2154,6 +2164,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | P67-DS3-B3           | 2011 | 3       | 33      | 1           |
 | Gigabyte... | EP41-US3L            | 2009 | 3       | 33      | 1           |
 | ASRock      | A780LM-S             | 2009 | 3       | 33      | 1           |
+| ASUSTek ... | ROG STRIX Z390-E ... | 2018 | 2       | 33      | 1           |
 | ASRock      | Z370 Killer SLI      | 2017 | 2       | 33      | 1           |
 | ASUSTek ... | M11AD                | 2013 | 2       | 33      | 1           |
 | ASRock      | 870iCafe R2.0        | 2013 | 2       | 33      | 1           |
@@ -2162,7 +2173,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Acer        | Aspire E380          | 2006 | 2       | 33      | 1           |
 | Intel       | D915PGN AAC64142-403 | 2005 | 2       | 33      | 1           |
 | ASUSTek ... | A8N-SLI              | 2005 | 2       | 33      | 1           |
-| ASUSTek ... | P5G41T-M LX2/GB      | 2009 | 38      | 32      | 1           |
+| ASUSTek ... | P5G41T-M LX2/GB      | 2009 | 39      | 32      | 1           |
 | Hewlett-... | EliteDesk 800 G1 SFF | 2013 | 23      | 32      | 1           |
 | ASUSTek ... | P5GC-MX              | 2007 | 15      | 32      | 1           |
 | Gigabyte... | B360M-DS3H           | 2018 | 11      | 32      | 1           |
@@ -2173,16 +2184,14 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | P5KPL                | 2007 | 10      | 32      | 1           |
 | Gigabyte... | H110M-S2V            | 2016 | 9       | 32      | 1           |
 | ASUSTek ... | H110M-A/M.2          | 2017 | 8       | 32      | 1           |
-| MSI         | MS-7846              | 2013 | 8       | 32      | 1           |
 | Foxconn     | 45CMX/45GMX/45CMX-K  | 2007 | 8       | 32      | 1           |
 | ASUSTek ... | P4P800-VM            | 2004 | 8       | 32      | 1           |
 | Gigabyte... | M61SME-S2L           | 2007 | 7       | 32      | 1           |
 | Gigabyte... | M52S-S3P             | 2007 | 7       | 32      | 1           |
 | ASUSTek ... | P5PL2                | 2005 | 7       | 32      | 1           |
-| ASRock      | H97 Anniversary      | 2014 | 6       | 32      | 1           |
+| Hewlett-... | xw4400 Workstation   | 2006 | 6       | 32      | 1           |
 | ASUSTek ... | B150M-A D3           | 2015 | 5       | 32      | 1           |
 | ASUSTek ... | P8H61-MX USB3        | 2012 | 5       | 32      | 1           |
-| Hewlett-... | xw4400 Workstation   | 2006 | 5       | 32      | 1           |
 | ASUSTek ... | PRIME B360M-K        | 2018 | 4       | 32      | 1           |
 | Dell        | Precision T1650      | 2013 | 4       | 32      | 1           |
 | Gigabyte... | M68MT-D3P            | 2010 | 4       | 32      | 1           |
@@ -2203,6 +2212,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Acer        | Aspire M1930         | 2011 | 2       | 32      | 1           |
 | Packard ... | imedia S3712         | 2009 | 2       | 32      | 1           |
 | Hewlett-... | VS342AA-AB6 m9801af  | 2009 | 2       | 32      | 1           |
+| Fujitsu ... | D2841-A1             | 2009 | 2       | 32      | 1           |
 | Acer        | Veriton S670G        | 2009 | 2       | 32      | 1           |
 | Biostar     | NF61D-A2             | 2007 | 2       | 32      | 1           |
 | Hewlett-... | EG194AA-ABA A1250N   | 2005 | 2       | 32      | 1           |
@@ -2216,12 +2226,12 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | H61M-VS              | 2011 | 14      | 31      | 1           |
 | Gigabyte... | H110M-S2             | 2016 | 12      | 31      | 1           |
 | Gigabyte... | P31-S3G              | 2007 | 12      | 31      | 1           |
-| ASRock      | H61M-DGS             | 2012 | 10      | 31      | 1           |
+| ASRock      | H61M-DGS             | 2012 | 11      | 31      | 1           |
 | Hewlett-... | Compaq dx2300 Mic... | 2007 | 8       | 31      | 1           |
+| ASRock      | H61M-VG4             | 2013 | 7       | 31      | 1           |
 | Hewlett-... | Compaq 6200 Pro M... | 2011 | 7       | 31      | 1           |
 | MSI         | MS-7236              | 2006 | 7       | 31      | 1           |
 | ASRock      | H110M-DGS            | 2016 | 6       | 31      | 1           |
-| ASRock      | H61M-VG4             | 2013 | 6       | 31      | 1           |
 | Dell        | OptiPlex 360         | 2008 | 6       | 31      | 1           |
 | ECS         | nVidia-nForce        | 2003 | 6       | 31      | 1           |
 | Intel       | D525MW AAE93082-401  | 2011 | 5       | 31      | 1           |
@@ -2239,6 +2249,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | PRIME H370M-PLUS     | 2018 | 3       | 31      | 1           |
 | ASUSTek ... | H110-PLUS            | 2016 | 3       | 31      | 1           |
 | Gigabyte... | H97M-HD3             | 2014 | 3       | 31      | 1           |
+| Intel       | DH87RL AAG74240-402  | 2013 | 3       | 31      | 1           |
 | Hewlett-... | Compaq Pro 4300 S... | 2012 | 3       | 31      | 1           |
 | Hewlett-... | Compaq dx2450 Mic... | 2008 | 3       | 31      | 1           |
 | EPoX Com... | nForce4 DDR: 9NPA... | 2005 | 3       | 31      | 1           |
@@ -2250,12 +2261,11 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | P4VM890              | 2007 | 2       | 31      | 1           |
 | ASUSTek ... | A7N8X-E              | 2004 | 2       | 31      | 1           |
 | Gigabyte... | H61M-S1              | 2012 | 60      | 30      | 1           |
+| ASUSTek ... | P8H61-M LX2 R2.0     | 2012 | 16      | 30      | 1           |
 | Hewlett-... | Compaq Pro 6300 MT   | 2012 | 15      | 30      | 1           |
-| ASUSTek ... | P8H61-M LX2 R2.0     | 2012 | 15      | 30      | 1           |
 | Gigabyte... | 945GZM-S2            | 2007 | 14      | 30      | 1           |
 | Gigabyte... | H61M-S2-B3           | 2011 | 12      | 30      | 1           |
 | Hewlett-... | ProLiant MicroServer | 2010 | 12      | 30      | 1           |
-| MSI         | MS-7A74              | 2017 | 9       | 30      | 1           |
 | Gigabyte... | 8I945GZME-RH         | 2006 | 9       | 30      | 1           |
 | ASUSTek ... | P5GZ-MX              | 2006 | 8       | 30      | 1           |
 | Gigabyte... | H310M S2H 2.0        | 2018 | 7       | 30      | 1           |
@@ -2270,8 +2280,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | DEPO Com... | 945GCT-M5            | 2008 | 3       | 30      | 1           |
 | ASUSTek ... | M2N68-CM             | 2008 | 3       | 30      | 1           |
 | EPoX Com... | MCP61S DDR2: AGF6... | 2006 | 3       | 30      | 1           |
-| ASUSTek ... | PRIME Q270M-C        | 2017 | 2       | 30      | 1           |
-| Intel       | DH87RL AAG74240-402  | 2013 | 2       | 30      | 1           |
+| Intel       | D865PERL AAC27648... | 2005 | 3       | 30      | 1           |
 | ASRock      | ZH77 Pro3            | 2013 | 2       | 30      | 1           |
 | 3NOD        | ALH236SB2_HDMI_DNS   | 2012 | 2       | 30      | 1           |
 | eMachines   | EL1852G              | 2011 | 2       | 30      | 1           |
@@ -2283,10 +2292,9 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | G41M-VS2             | 2009 | 2       | 30      | 1           |
 | Dell        | Inspiron 531s        | 2008 | 2       | 30      | 1           |
 | ASRock      | P4i65GV              | 2008 | 2       | 30      | 1           |
-| Intel       | D865PERL AAC27648... | 2005 | 2       | 30      | 1           |
 | ASUSTek ... | P4GPL-X              | 2005 | 2       | 30      | 1           |
 | SiS Tech... | SiS-661              | 2004 | 2       | 30      | 1           |
-| MSI         | MS-7A15              | 2016 | 22      | 29      | 1           |
+| MSI         | MS-7A15              | 2016 | 23      | 29      | 1           |
 | ECS         | H61H2-MV             | 2012 | 8       | 29      | 1           |
 | ASUSTek ... | P8H61-M LX R2.0      | 2012 | 7       | 29      | 1           |
 | ASUSTek ... | H110M-A              | 2015 | 4       | 29      | 1           |
@@ -2333,12 +2341,14 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | TUF B360-PLUS GAMING | 2018 | 3       | 27      | 1           |
 | ASUSTek ... | H110M-C              | 2015 | 3       | 27      | 1           |
 | Acer        | Aspire M1610         | 2007 | 3       | 27      | 1           |
+| MSI         | MS-7C08              | 2019 | 2       | 27      | 1           |
+| Hewlett-... | 260-a010             | 2018 | 2       | 27      | 1           |
+| ASRock      | J3455-ITX            | 2017 | 2       | 27      | 1           |
 | PCWare      | IPMH61G1             | 2012 | 2       | 27      | 1           |
 | Lenovo      | 3000                 | 2010 | 2       | 27      | 1           |
 | Arbyte C... | Arbyte Forte         | 2009 | 2       | 27      | 1           |
 | ASUSTek ... | ITX-220              | 2009 | 2       | 27      | 1           |
 | Compaq      | Evo D310             | 2002 | 2       | 27      | 1           |
-| Hewlett-... | 260-a010             |      | 2       | 27      | 1           |
 | Dell        | OptiPlex 3050        | 2017 | 3       | 26      | 1           |
 | Gigabyte... | GA-8SIMLH            | 2003 | 3       | 26      | 1           |
 | ECS         | H110M4-C2H           | 2016 | 2       | 26      | 1           |
@@ -2363,32 +2373,33 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Dell        | Precision Tower 5810 | 2015 | 13      | 103     | 2           |
 | Apple       | MacPro4,1            | 2009 | 3       | 103     | 2           |
 | ASUSTek ... | P6T DELUXE V2        | 2009 | 13      | 74      | 2           |
-| Dell        | Precision WorkSta... | 2009 | 28      | 69      | 2           |
+| Dell        | Precision WorkSta... | 2009 | 29      | 69      | 2           |
 | Insyde      | Raicila              | 2018 | 2       | 64      | 2           |
 | MSI         | MS-7A34              | 2017 | 28      | 59      | 2           |
 | ASUSTek ... | PRIME X399-A         | 2018 | 2       | 59      | 2           |
 | Gigabyte... | X570 AORUS MASTER    | 2019 | 6       | 55      | 2           |
 | ASUSTek ... | ROG STRIX X470-F ... | 2018 | 11      | 54      | 2           |
+| ASUSTek ... | PRIME Z390-A         | 2018 | 6       | 54      | 2           |
 | ASUSTek ... | PRIME X570-PRO       | 2019 | 4       | 54      | 2           |
-| ASUSTek ... | M5A78L-M/USB3        | 2011 | 78      | 52      | 2           |
-| MSI         | MS-7C37              | 2019 | 17      | 52      | 2           |
+| ASUSTek ... | M5A78L-M/USB3        | 2011 | 79      | 52      | 2           |
+| MSI         | MS-7C37              | 2019 | 18      | 52      | 2           |
 | MSI         | MS-7B84              | 2018 | 12      | 51      | 2           |
 | MSI         | MS-7B09              | 2017 | 5       | 51      | 2           |
 | Hewlett-... | xw6600 Workstation   | 2010 | 5       | 51      | 2           |
 | ASRock      | X570 Steel Legend    | 2019 | 3       | 51      | 2           |
 | ASUSTek ... | ROG STRIX X570-E ... | 2019 | 3       | 50      | 2           |
-| ASUSTek ... | M5A99X EVO R2.0      | 2012 | 26      | 49      | 2           |
+| ASUSTek ... | M5A99X EVO R2.0      | 2012 | 27      | 49      | 2           |
 | ASUSTek ... | ROG STRIX B450-F ... | 2018 | 15      | 49      | 2           |
 | ASRock      | M3N78D               | 2010 | 9       | 49      | 2           |
 | ASUSTek ... | ROG Maximus X HERO   | 2018 | 6       | 49      | 2           |
 | ASRock      | B450 Gaming-ITX/ac   | 2018 | 2       | 49      | 2           |
 | ASUSTek ... | M5A97                | 2011 | 24      | 48      | 2           |
+| ASUSTek ... | PRIME B450M-A        | 2018 | 21      | 48      | 2           |
 | Gigabyte... | GA-78LMT-USB3 6.0    | 2014 | 21      | 48      | 2           |
-| ASUSTek ... | PRIME B450M-A        | 2018 | 20      | 48      | 2           |
 | Gigabyte... | P35-DS4              | 2009 | 5       | 48      | 2           |
 | MSI         | MS-7A38              | 2017 | 27      | 47      | 2           |
-| ASUSTek ... | Z170-A               | 2015 | 25      | 47      | 2           |
-| Gigabyte... | GA-870A-UD3          |      | 25      | 47      | 2           |
+| ASUSTek ... | Z170-A               | 2015 | 26      | 47      | 2           |
+| Gigabyte... | GA-870A-UD3          | 2010 | 25      | 47      | 2           |
 | ASRock      | 970 Extreme3 R2.0    | 2012 | 17      | 47      | 2           |
 | Gigabyte... | 990XA-UD3            | 2013 | 11      | 47      | 2           |
 | ASRock      | X470 Master SLI      | 2018 | 5       | 47      | 2           |
@@ -2402,7 +2413,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASRock      | FM2A88X Extreme6+    | 2014 | 6       | 45      | 2           |
 | ASUSTek ... | PRIME B350M-K        | 2017 | 5       | 45      | 2           |
 | MSI         | P35 Platinum(MS-7... | 2009 | 4       | 45      | 2           |
-| ASUSTek ... | P5QD TURBO           | 2009 | 8       | 44      | 2           |
+| ASUSTek ... | P5QD TURBO           | 2009 | 9       | 44      | 2           |
 | Gigabyte... | Z87X-UD3H            | 2013 | 4       | 44      | 2           |
 | ASRock      | 970 Pro3             | 2012 | 3       | 44      | 2           |
 | MSI         | MS-7388              | 2008 | 16      | 43      | 2           |
@@ -2410,8 +2421,8 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | P8Z77-V              | 2012 | 15      | 43      | 2           |
 | ASRock      | Z77 Extreme4         | 2012 | 14      | 43      | 2           |
 | MSI         | MS-7A71              | 2016 | 7       | 43      | 2           |
+| Gigabyte... | H87-HD3              | 2013 | 7       | 43      | 2           |
 | ASUSTek ... | Z170-K               | 2015 | 6       | 43      | 2           |
-| Gigabyte... | H87-HD3              | 2013 | 6       | 43      | 2           |
 | Lenovo      | Product              | 2010 | 2       | 43      | 2           |
 | ASUSTek ... | M5A97 LE R2.0        | 2012 | 53      | 42      | 2           |
 | MSI         | MS-7758              | 2012 | 44      | 42      | 2           |
@@ -2433,7 +2444,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Gigabyte... | GA-MA78GPM-DS2H      | 2008 | 2       | 40      | 2           |
 | MSI         | MS-7369              | 2007 | 39      | 39      | 2           |
 | MSI         | MS-7996              | 2015 | 30      | 39      | 2           |
-| MSI         | MS-7816              |      | 25      | 39      | 2           |
+| MSI         | MS-7816              | 2013 | 25      | 39      | 2           |
 | ASUSTek ... | P8B75-M LE           | 2012 | 20      | 39      | 2           |
 | Gigabyte... | Z68AP-D3             | 2011 | 11      | 39      | 2           |
 | ASUSTek ... | M2A-VM HDMI          | 2007 | 10      | 39      | 2           |
@@ -2444,7 +2455,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | B150M-A              | 2015 | 4       | 39      | 2           |
 | Acer        | Aspire M3900         | 2010 | 4       | 39      | 2           |
 | Dell        | Dimension E521       | 2006 | 3       | 39      | 2           |
-| MSI         | MS-7823              |      | 11      | 38      | 2           |
+| MSI         | MS-7823              | 2014 | 11      | 38      | 2           |
 | Fujitsu ... | ESPRIMO E            | 2005 | 7       | 38      | 2           |
 | MSI         | MS-7970              | 2016 | 3       | 38      | 2           |
 | Gigabyte... | P67A-UD3R-B3         | 2012 | 3       | 38      | 2           |
@@ -2487,6 +2498,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Medion      | Akoya P5371 H/B727   | 2015 | 2       | 32      | 2           |
 | Hewlett-... | d530 SFF(DG059A)     | 2003 | 2       | 32      | 2           |
 | MSI         | MS-7982              | 2015 | 7       | 30      | 2           |
+| ASUSTek ... | PRIME Q270M-C        | 2017 | 2       | 30      | 2           |
 | ASUSTek ... | H110M-D              | 2015 | 6       | 29      | 2           |
 | Pegatron    | IPM31G               | 2009 | 4       | 28      | 2           |
 | Dell        | PowerEdge T20        | 2013 | 2       | 28      | 2           |
@@ -2496,14 +2508,14 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Fujitsu     | D3417-B1             | 2016 | 2       | 24      | 2           |
 | Gigabyte... | B360 HD3P-LM         | 2019 | 3       | 23      | 2           |
 | ASRock      | B360M-HDV            | 2018 | 2       | 23      | 2           |
-| ASUSTek ... | All Series           | 2013 | 583     | 132     | 3           |
+| ASUSTek ... | All Series           | 2013 | 588     | 132     | 3           |
 | MSI         | MS-7885              | 2015 | 9       | 107     | 3           |
 | Supermicro  | X9DR3-F              | 2012 | 2       | 80      | 3           |
-| MSI         | MS-7B79              | 2018 | 23      | 59      | 3           |
+| MSI         | MS-7B79              | 2018 | 24      | 65      | 3           |
 | Gigabyte... | X570 GAMING X        | 2019 | 3       | 58      | 3           |
 | ASUSTek ... | A88X-PLUS            | 2013 | 10      | 44      | 3           |
 | ASUSTek ... | M5A78L/USB3          | 2012 | 9       | 43      | 3           |
-| MSI         | MS-7721              | 2012 | 63      | 40      | 3           |
+| MSI         | MS-7721              | 2012 | 64      | 40      | 3           |
 | Gigabyte... | B85M-DS3H            | 2015 | 2       | 39      | 3           |
 | ASRock      | H55M Pro             | 2010 | 2       | 39      | 3           |
 | Gateway     | SX2185               | 2013 | 3       | 38      | 3           |
@@ -2521,7 +2533,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | ASUSTek ... | SABERTOOTH Z77       | 2012 | 8       | 43      | 4           |
 | Intel       | DG31PR AAE58249-306  | 2009 | 4       | 36      | 4           |
 | Intel       | MAHOBAY              | 2012 | 12      | 32      | 4           |
-| Dell        | OptiPlex 9010        | 2012 | 10      | 31      | 4           |
+| Dell        | OptiPlex 9010        | 2012 | 11      | 31      | 4           |
 | ASRockRack  | E3C242D4U2-2T        | 2019 | 3       | 30      | 4           |
 | ECS         | 945GZ/CT-M           | 2007 | 3       | 30      | 4           |
 | ASUSTek ... | M4A785TD-V EVO       | 2009 | 16      | 45      | 7           |
@@ -2534,28 +2546,28 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 
 | Vendor      | Samples | Devices | Non-working |
 |-------------|---------|---------|-------------|
-| ASUSTek ... | 6015    | 37      | 1           |
-| Gigabyte... | 3866    | 36      | 1           |
-| ASRock      | 2000    | 35      | 1           |
-| MSI         | 1767    | 36      | 1           |
-| Hewlett-... | 1136    | 36      | 1           |
-| Dell        | 964     | 36      | 1           |
-| Intel       | 475     | 33      | 1           |
-| Lenovo      | 364     | 32      | 1           |
-| Acer        | 310     | 33      | 1           |
+| ASUSTek ... | 6055    | 37      | 1           |
+| Gigabyte... | 3885    | 36      | 1           |
+| ASRock      | 2008    | 35      | 1           |
+| MSI         | 1777    | 36      | 1           |
+| Hewlett-... | 1147    | 36      | 1           |
+| Dell        | 971     | 36      | 1           |
+| Intel       | 479     | 33      | 1           |
+| Lenovo      | 368     | 32      | 1           |
+| Acer        | 312     | 33      | 1           |
 | ECS         | 280     | 32      | 1           |
-| Biostar     | 237     | 33      | 1           |
+| Biostar     | 239     | 33      | 1           |
 | Foxconn     | 140     | 32      | 1           |
 | Fujitsu     | 107     | 34      | 1           |
-| Fujitsu ... | 85      | 34      | 1           |
-| Medion      | 80      | 34      | 1           |
+| Fujitsu ... | 86      | 34      | 1           |
+| Medion      | 81      | 34      | 1           |
 | Pegatron    | 61      | 30      | 1           |
 | DEPO Com... | 50      | 32      | 1           |
 | Supermicro  | 50      | 53      | 1           |
 | Packard ... | 43      | 36      | 1           |
 | Aquarius    | 40      | 32      | 1           |
 | Positivo    | 39      | 28      | 1           |
-| Gateway     | 38      | 34      | 1           |
+| Gateway     | 39      | 34      | 1           |
 | Compaq      | 37      | 31      | 1           |
 | eMachines   | 34      | 31      | 1           |
 | ABIT        | 32      | 33      | 1           |
@@ -2563,23 +2575,23 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | WinFast     | 32      | 35      | 1           |
 | EPoX Com... | 30      | 32      | 1           |
 | Shuttle     | 27      | 32      | 1           |
+| Apple       | 27      | 72      | 1           |
 | PCWare      | 26      | 27      | 1           |
-| Apple       | 26      | 71      | 1           |
 | Alienware   | 20      | 46      | 1           |
+| K-Systems   | 18      | 34      | 1           |
 | IBM         | 18      | 27      | 1           |
 | Nvidia      | 17      | 34      | 1           |
-| K-Systems   | 17      | 34      | 1           |
 | AZW         | 16      | 21      | 1           |
 | AMD         | 13      | 37      | 1           |
+| Huanan      | 12      | 87      | 1           |
 | SiS Tech... | 12      | 24      | 1           |
 | ZOTAC       | 11      | 33      | 1           |
 | Semp Tos... | 11      | 32      | 1           |
-| Huanan      | 11      | 85      | 1           |
 | PCChips     | 11      | 29      | 1           |
 | EVGA        | 10      | 52      | 0           |
+| AAEON       | 10      | 27      | 0           |
 | Itautec     | 10      | 30      | 1           |
 | JW Techn... | 8       | 36      | 0           |
-| AAEON       | 8       | 27      | 0           |
 | ATComputers | 8       | 31      | 1           |
 | Arbyte C... | 8       | 32      | 1           |
 | NT Computer | 8       | 31      | 1           |
@@ -2610,6 +2622,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Informat... | 4       | 28      | 0           |
 | Digibras    | 4       | 27      | 0           |
 | RM          | 4       | 35      | 1           |
+| iEi         | 4       | 34      | 1           |
 | Sapphire    | 4       | 38      | 1           |
 | LattePanda  | 3       | 37      | 0           |
 | AOpen       | 3       | 35      | 0           |
@@ -2620,7 +2633,6 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Tarox       | 3       | 51      | 1           |
 | Sapphire... | 3       | 38      | 1           |
 | Brunen IT   | 3       | 36      | 1           |
-| iEi         | 3       | 34      | 1           |
 | Login In... | 3       | 24      | 1           |
 | Excimer DM  | 3       | 34      | 1           |
 | Insyde      | 3       | 40      | 1           |
@@ -2628,6 +2640,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Phitronics  | 3       | 30      | 1           |
 | MCJ         | 2       | 41      | 0           |
 | BUYMPC      | 2       | 36      | 0           |
+| ZOOSTORM    | 2       | 35      | 0           |
 | Hyrican ... | 2       | 35      | 0           |
 | Mikrolog    | 2       | 34      | 0           |
 | ELSA        | 2       | 32      | 0           |

@@ -43,12 +43,14 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Intel       | NUC5PGYB H78167-102  | 2017 | 2       | 33      | 0           |
 | Apple       | Macmini2,1           | 2007 | 3       | 32      | 0           |
 | ZOTAC       | ZBOX-ID84            | 2012 | 2       | 32      | 0           |
+| Apple       | Macmini1,1           | 2006 | 2       | 32      | 0           |
 | Intel       | NUC7i7DNHE           | 2018 | 3       | 31      | 0           |
 | Lenovo      | ThinkCentre M90n-... | 2019 | 2       | 31      | 0           |
 | Intel       | NUC7PJYH             | 2018 | 2       | 31      | 0           |
 | Intel       | NUC6i5SYB H81131-504 | 2016 | 2       | 31      | 0           |
 | Intel       | NUC5PPYB H76558-107  | 2016 | 3       | 30      | 0           |
 | Intel Cl... | NUC6CAYH             | 2018 | 2       | 30      | 0           |
+| Intel       | NUC5PPYB H76558-106  | 2016 | 2       | 30      | 0           |
 | Intel       | NUC5CPYB H61145-408  | 2016 | 2       | 30      | 0           |
 | Intel       | NUC7CJYH             | 2018 | 6       | 29      | 0           |
 | Lenovo      | C20-00 F0BB00RMRK    | 2016 | 2       | 29      | 0           |
@@ -79,7 +81,7 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 | Hewlett-... | ProDesk 400 G3 DM    | 2017 | 2       | 23      | 1           |
 | Apple       | Macmini6,1           | 2015 | 9       | 44      | 2           |
 | Intel       | NUC6CAYB J23203-403  | 2017 | 2       | 37      | 2           |
-| Intel       | NUC5CPYB H61145-404  | 2015 | 6       | 30      | 2           |
+| Intel       | NUC5CPYB H61145-404  | 2015 | 7       | 30      | 2           |
 
 By Vendor
 ---------
@@ -89,10 +91,10 @@ Non-working — avg. non-working / Linux incompatible devices on board.
 
 | Vendor      | Samples | Devices | Non-working |
 |-------------|---------|---------|-------------|
-| Intel       | 89      | 30      | 1           |
+| Intel       | 91      | 30      | 1           |
 | Intel Cl... | 56      | 33      | 1           |
-| Apple       | 39      | 38      | 1           |
-| Lenovo      | 28      | 28      | 1           |
+| Apple       | 40      | 37      | 1           |
+| Lenovo      | 29      | 28      | 1           |
 | AMI         | 25      | 24      | 1           |
 | ZOTAC       | 24      | 32      | 1           |
 | Hewlett-... | 16      | 31      | 1           |
