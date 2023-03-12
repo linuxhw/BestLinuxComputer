@@ -5,9 +5,6 @@ This is a list of laptops with best Linux-compatibility in the terms of
 maximal number of Linux-compatible devices on board and maximal overall
 popularity of a model.
 
-See also [Best Desktop](/BestDesktop.md), [Best All In One](/BestAllInOne.md),
-[Best Mini PC](/BestMiniPc.md) and [Best Convertible](/BestConvertible.md).
-
 Everyone can contribute to this report by uploading probes of their computers
 by the [hw-probe](https://github.com/linuxhw/hw-probe) tool:
 
